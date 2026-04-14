@@ -228,12 +228,6 @@ e:\qwendata\2\
 ├── love_v3.py          # 主程序源码（当前版本）
 ├── love_popup.py       # 旧版本源码
 ├── love_v2.py          # 旧版本源码
-├── love-popup.html     # HTML 版本
-├── LoveV3.spec         # PyInstaller 打包配置（V3版本）
-├── LoveV2.spec         # PyInstaller 打包配置（V2版本）
-├── LovePopup.spec      # PyInstaller 打包配置（Popup版本）
-├── build\              # PyInstaller 构建临时文件（可删除）
-└── dist\               # 打包生成的 EXE 文件（发布用）
 ```
 
 ---
